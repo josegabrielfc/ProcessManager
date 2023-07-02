@@ -1,0 +1,247 @@
+Nombre de imagen,PID,Nombre de sesi�n,N�m. de sesi�n,Uso de memoria,Estado,Nombre de usuario,Tiempo de CPU,T�tulo de ventana
+System Idle Process,0,Services,0,8 KB,Unknown,NT AUTHORITY\SYSTEM,82:23:37,N/D
+System,4,Services,0,2.208 KB,Unknown,N/D,0:32:53,N/D
+Registry,148,Services,0,83.388 KB,Unknown,N/D,0:00:00,N/D
+smss.exe,548,Services,0,680 KB,Unknown,N/D,0:00:00,N/D
+csrss.exe,812,Services,0,5.080 KB,Unknown,N/D,0:00:02,N/D
+wininit.exe,908,Services,0,6.252 KB,Unknown,N/D,0:00:00,N/D
+services.exe,984,Services,0,9.324 KB,Unknown,N/D,0:00:17,N/D
+lsass.exe,996,Services,0,26.456 KB,Unknown,N/D,0:00:22,N/D
+svchost.exe,1088,Services,0,28.580 KB,Unknown,N/D,0:00:17,N/D
+fontdrvhost.exe,1116,Services,0,2.320 KB,Unknown,N/D,0:00:00,N/D
+WUDFHost.exe,1184,Services,0,5.348 KB,Unknown,N/D,0:00:40,N/D
+svchost.exe,1248,Services,0,16.248 KB,Unknown,N/D,0:00:44,N/D
+svchost.exe,1296,Services,0,7.896 KB,Unknown,N/D,0:00:02,N/D
+svchost.exe,1440,Services,0,6.412 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,1444,Services,0,12.368 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,1464,Services,0,11.012 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,1624,Services,0,8.556 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,1632,Services,0,10.684 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,1784,Services,0,5.360 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,1824,Services,0,12.448 KB,Unknown,N/D,0:00:02,N/D
+svchost.exe,1860,Services,0,14.492 KB,Unknown,N/D,0:00:03,N/D
+svchost.exe,1900,Services,0,14.260 KB,Unknown,N/D,0:00:14,N/D
+svchost.exe,1916,Services,0,6.768 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,980,Services,0,10.916 KB,Unknown,N/D,0:00:02,N/D
+svchost.exe,104,Services,0,4.988 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,1564,Services,0,9.900 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,2084,Services,0,5.840 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,2172,Services,0,6.672 KB,Unknown,N/D,0:00:01,N/D
+svchost.exe,2232,Services,0,7.396 KB,Unknown,N/D,0:00:00,N/D
+dasHost.exe,2304,Services,0,16.248 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,2384,Services,0,10.204 KB,Unknown,N/D,0:00:00,N/D
+NVDisplay.Container.exe,2452,Services,0,18.464 KB,Unknown,N/D,0:00:04,N/D
+svchost.exe,2460,Services,0,8.932 KB,Unknown,N/D,0:00:01,N/D
+svchost.exe,2524,Services,0,5.768 KB,Unknown,N/D,0:00:00,N/D
+AsusCertService.exe,2592,Services,0,8.288 KB,Unknown,N/D,0:02:11,N/D
+svchost.exe,2652,Services,0,6.604 KB,Unknown,N/D,0:00:01,N/D
+svchost.exe,2736,Services,0,7.608 KB,Unknown,N/D,0:00:04,N/D
+svchost.exe,2888,Services,0,13.580 KB,Unknown,N/D,0:00:57,N/D
+svchost.exe,2896,Services,0,4.800 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,2904,Services,0,6.120 KB,Unknown,N/D,0:00:00,N/D
+Memory Compression,2988,Services,0,905.384 KB,Unknown,N/D,0:01:12,N/D
+svchost.exe,3032,Services,0,6.904 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,2128,Services,0,7.308 KB,Unknown,N/D,0:00:06,N/D
+svchost.exe,1912,Services,0,7.492 KB,Unknown,N/D,0:00:01,N/D
+svchost.exe,3076,Services,0,19.384 KB,Unknown,N/D,0:01:02,N/D
+WmiPrvSE.exe,3208,Services,0,10.972 KB,Unknown,N/D,0:00:01,N/D
+svchost.exe,3396,Services,0,6.700 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,3692,Services,0,6.988 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,3856,Services,0,8.312 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,4032,Services,0,7.988 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,3196,Services,0,8.540 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,3516,Services,0,15.400 KB,Unknown,N/D,0:00:34,N/D
+svchost.exe,4288,Services,0,20.364 KB,Unknown,N/D,0:00:29,N/D
+atkexComSvc.exe,4300,Services,0,8.240 KB,Unknown,N/D,0:00:01,N/D
+audiodg.exe,4364,Services,0,20.508 KB,Unknown,N/D,0:05:25,N/D
+svchost.exe,4568,Services,0,5.296 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,4576,Services,0,8.112 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,4620,Services,0,12.508 KB,Unknown,N/D,0:00:00,N/D
+spoolsv.exe,4712,Services,0,13.640 KB,Unknown,N/D,0:00:02,N/D
+svchost.exe,4752,Services,0,17.092 KB,Unknown,N/D,0:00:03,N/D
+svchost.exe,5000,Services,0,6.868 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,4476,Services,0,7.296 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,4488,Services,0,13.500 KB,Unknown,N/D,0:00:01,N/D
+AsusFanControlService.exe,4500,Services,0,10.288 KB,Unknown,N/D,0:00:01,N/D
+svchost.exe,4508,Services,0,26.220 KB,Unknown,N/D,0:00:02,N/D
+ArmouryCrate.Service.exe,4156,Services,0,25.440 KB,Unknown,N/D,0:00:02,N/D
+svchost.exe,4148,Services,0,9.040 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,4216,Services,0,6.284 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,4140,Services,0,4.944 KB,Unknown,N/D,0:00:00,N/D
+RazerCentralService.exe,4780,Services,0,97.576 KB,Unknown,N/D,0:00:18,N/D
+svchost.exe,5124,Services,0,40.076 KB,Unknown,N/D,0:00:16,N/D
+nvcontainer.exe,5136,Services,0,34.804 KB,Unknown,N/D,0:00:04,N/D
+RtkAudUService64.exe,5144,Services,0,9.216 KB,Unknown,N/D,0:00:01,N/D
+svchost.exe,5152,Services,0,4.468 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,5176,Services,0,20.280 KB,Unknown,N/D,0:00:00,N/D
+GameManagerService.exe,5184,Services,0,65.148 KB,Unknown,N/D,0:00:37,N/D
+RtkBtManServ.exe,5200,Services,0,5.472 KB,Unknown,N/D,0:00:01,N/D
+GameSDK.exe,5208,Services,0,5.348 KB,Unknown,N/D,0:00:00,N/D
+ROGLiveService.exe,5216,Services,0,22.904 KB,Unknown,N/D,0:00:05,N/D
+LightingService.exe,5244,Services,0,21.444 KB,Unknown,N/D,0:00:06,N/D
+MsMpEng.exe,5324,Services,0,233.712 KB,Unknown,N/D,0:21:20,N/D
+svchost.exe,5504,Services,0,5.764 KB,Unknown,N/D,0:00:00,N/D
+TeamViewer_Service.exe,5576,Services,0,21.516 KB,Unknown,N/D,0:00:04,N/D
+escsvc64.exe,5780,Services,0,5.580 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,5932,Services,0,4.228 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,6248,Services,0,8.148 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,6360,Services,0,11.784 KB,Unknown,N/D,0:00:00,N/D
+Aac3572DramHal_x86.exe,7172,Services,0,7.332 KB,Unknown,N/D,0:00:01,N/D
+Razer Synapse Service.exe,7472,Services,0,106.136 KB,Unknown,N/D,0:01:24,N/D
+unsecapp.exe,8096,Services,0,5.744 KB,Unknown,N/D,0:00:00,N/D
+NisSrv.exe,7732,Services,0,9.392 KB,Unknown,N/D,0:00:01,N/D
+AacKingstonDramHal_x64.exe,8088,Services,0,6.704 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,7760,Services,0,9.456 KB,Unknown,N/D,0:00:00,N/D
+dllhost.exe,5108,Services,0,9.032 KB,Unknown,N/D,0:00:00,N/D
+extensionCardHal_x86.exe,8256,Services,0,7.324 KB,Unknown,N/D,0:00:00,N/D
+AacKingstonDramHal_x86.exe,8360,Services,0,7.132 KB,Unknown,N/D,0:00:00,N/D
+Aac3572MbHal_x86.exe,8472,Services,0,8.060 KB,Unknown,N/D,0:06:23,N/D
+svchost.exe,7184,Services,0,19.668 KB,Unknown,N/D,0:00:04,N/D
+svchost.exe,4736,Services,0,19.196 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,9152,Services,0,11.396 KB,Unknown,N/D,0:00:03,N/D
+SearchIndexer.exe,9484,Services,0,49.724 KB,Unknown,N/D,0:00:51,N/D
+svchost.exe,9696,Services,0,20.548 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,11540,Services,0,12.516 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,11336,Services,0,18.160 KB,Unknown,N/D,0:00:01,N/D
+SecurityHealthService.exe,15944,Services,0,11.712 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,9544,Services,0,15.668 KB,Unknown,N/D,0:00:03,N/D
+svchost.exe,17052,Services,0,10.984 KB,Unknown,N/D,0:00:04,N/D
+SgrmBroker.exe,17768,Services,0,7.208 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,17832,Services,0,8.860 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,20300,Services,0,5.216 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,11556,Services,0,12.656 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,19812,Services,0,8.584 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,15424,Services,0,8.612 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,7144,Services,0,8.716 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,22700,Services,0,5.960 KB,Unknown,N/D,0:00:00,N/D
+csrss.exe,6860,Console,4,6.776 KB,Running,N/D,0:00:33,N/D
+winlogon.exe,1992,Console,4,11.516 KB,Unknown,N/D,0:00:00,N/D
+fontdrvhost.exe,22708,Console,4,7.432 KB,Unknown,N/D,0:00:00,N/D
+dwm.exe,24480,Console,4,71.124 KB,Running,N/D,0:02:56,DWM Notification Window
+NVDisplay.Container.exe,500,Console,4,50.524 KB,Running,N/D,0:00:03,UxdService
+svchost.exe,11972,Services,0,6.060 KB,Unknown,N/D,0:00:00,N/D
+Razer Synapse Service Process.exe,16668,Console,4,54.484 KB,Running,DESKTOP-5I5ARKU\josga,0:00:07,.NET-BroadcastEventWindow.4.0.0.0.7797c1.0
+sihost.exe,10148,Console,4,28.000 KB,Running,DESKTOP-5I5ARKU\josga,0:00:01,N/D
+svchost.exe,6988,Console,4,25.968 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:06,N/D
+svchost.exe,17712,Console,4,8.864 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+svchost.exe,15584,Console,4,35.584 KB,Running,DESKTOP-5I5ARKU\josga,0:00:01,Windows Push Notifications Platform
+nvcontainer.exe,8408,Console,4,27.652 KB,Running,DESKTOP-5I5ARKU\josga,0:00:01,{2A335767-FC94-417F-ABC4-B4122ADBEE60}
+nvcontainer.exe,19552,Console,4,47.956 KB,Running,DESKTOP-5I5ARKU\josga,0:00:28,BroadcastListenerWindow
+taskhostw.exe,13172,Console,4,10.084 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,Task Host Window
+AcPowerNotification.exe,22276,Console,4,10.508 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,WISPTIS
+MonitorMicroKeyDetector.exe,19252,Console,4,12.952 KB,Running,DESKTOP-5I5ARKU\josga,0:00:05,N/D
+GamingIntelligence.exe,12364,Console,4,25.708 KB,Running,DESKTOP-5I5ARKU\josga,0:00:06,GDI+ Window (GamingIntelligence.exe)
+svchost.exe,20940,Services,0,8.624 KB,Unknown,N/D,0:00:00,N/D
+MysticLightController.exe,20308,Console,4,8.036 KB,Running,DESKTOP-5I5ARKU\josga,0:00:01,N/D
+taskhostw.exe,16484,Console,4,20.312 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,Task Host Window
+ArmourySocketServer.exe,17356,Console,4,4.344 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,ArmourySocketServerName
+asus_framework.exe,3472,Console,4,18.200 KB,Running,DESKTOP-5I5ARKU\josga,0:00:03,N/D
+TeamViewer.exe,1684,Console,4,70.576 KB,Running,DESKTOP-5I5ARKU\josga,0:00:02,N/D
+explorer.exe,12844,Console,4,155.332 KB,Running,DESKTOP-5I5ARKU\josga,0:00:31,N/D
+WeatherDetector.exe,8580,Console,4,6.180 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+tv_w32.exe,2164,Console,4,9.408 KB,Unknown,N/D,0:00:00,N/D
+tv_x64.exe,17384,Console,4,9.188 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,2328,Console,4,39.356 KB,Running,DESKTOP-5I5ARKU\josga,0:00:01,OLEChannelWnd
+StartMenuExperienceHost.exe,13400,Console,4,86.324 KB,Running,DESKTOP-5I5ARKU\josga,0:00:02,Inicio
+RuntimeBroker.exe,12608,Console,4,24.420 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:01,N/D
+SearchApp.exe,20612,Console,4,232.072 KB,Running,DESKTOP-5I5ARKU\josga,0:00:04,B�squeda
+RuntimeBroker.exe,11296,Console,4,36.800 KB,Running,DESKTOP-5I5ARKU\josga,0:00:01,N/D
+NVIDIA Web Helper.exe,24044,Console,4,9.876 KB,Running,DESKTOP-5I5ARKU\josga,0:00:01,NVIDIA NodeJS Share Window
+conhost.exe,1048,Console,4,1.088 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+ctfmon.exe,21484,Console,4,26.868 KB,Running,DESKTOP-5I5ARKU\josga,0:00:07,N/D
+LockApp.exe,26356,Console,4,45.180 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,Pantalla de bloqueo predeterminada de Windows
+RuntimeBroker.exe,6456,Console,4,29.684 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+RuntimeBroker.exe,10484,Console,4,19.000 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:01,N/D
+PhoneExperienceHost.exe,2872,Console,4,122.724 KB,Running,DESKTOP-5I5ARKU\josga,0:00:01,N/D
+RuntimeBroker.exe,9508,Console,4,14.496 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+asus_framework.exe,21624,Console,4,1.468 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+ArmouryCrate.UserSessionHelper.exe,20840,Console,4,51.284 KB,Running,DESKTOP-5I5ARKU\josga,0:00:07,MacroKey Hidden Wnd
+conhost.exe,18420,Console,4,6.000 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+ArmourySwAgent.exe,1428,Console,4,3.204 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+asus_framework.exe,13976,Console,4,1.344 KB,Not Responding,DESKTOP-5I5ARKU\josga,0:00:00,OleMainThreadWndName
+asus_framework.exe,23960,Console,4,1.236 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+Aac3572MbHal_x86.exe,5584,Console,4,10.408 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,OleMainThreadWndName
+asus_framework.exe,9876,Console,4,896 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+TextInputHost.exe,25904,Console,4,61.884 KB,Running,DESKTOP-5I5ARKU\josga,0:00:02,Microsoft Text Input Application
+nvsphelper64.exe,13488,Console,4,12.788 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,{1274D398-C3C8-422E-87DD-2FAFFD5A7F2F}
+NVIDIA Share.exe,20528,Console,4,53.840 KB,Running,DESKTOP-5I5ARKU\josga,0:00:01,NVIDIA GeForce Overlay
+NVIDIA Share.exe,24104,Console,4,33.124 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+NVIDIA Share.exe,10044,Console,4,53.272 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:01,N/D
+SecurityHealthSystray.exe,17964,Console,4,9.352 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+RtkAudUService64.exe,24984,Console,4,9.540 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,RealtekAudioBackgroundProcessClass
+vgtray.exe,26020,Console,4,8.668 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+OneDrive.exe,14240,Console,4,89.172 KB,Running,DESKTOP-5I5ARKU\josga,0:00:03,DDE Server Window
+Razer Synapse 3.exe,23160,Console,4,107.964 KB,Running,DESKTOP-5I5ARKU\josga,0:00:04,Razer Synapse
+Razer Central.exe,9108,Console,4,111.520 KB,Running,DESKTOP-5I5ARKU\josga,0:00:34,GDI+ Window (Razer Central.exe)
+CefSharp.BrowserSubprocess.exe,13040,Console,4,49.532 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+CefSharp.BrowserSubprocess.exe,24296,Console,4,32.840 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+E_YATII5E.EXE,11032,Console,4,12.748 KB,Running,DESKTOP-5I5ARKU\josga,0:00:01,STM3 TrayIcon
+CefSharp.BrowserSubprocess.exe,25208,Console,4,25.372 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+CefSharp.BrowserSubprocess.exe,3880,Console,4,31.020 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+CefSharp.BrowserSubprocess.exe,19020,Console,4,73.568 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:01,N/D
+voicemeeterpro.exe,14824,Console,4,35.956 KB,Running,DESKTOP-5I5ARKU\josga,0:03:16,VoiceMeeter
+jusched.exe,16916,Console,4,16.052 KB,Not Responding,DESKTOP-5I5ARKU\josga,0:00:00,OleMainThreadWndName
+opera.exe,26144,Console,4,443.792 KB,Running,DESKTOP-5I5ARKU\josga,0:05:43,Cambiar JTextArea en NetBeans. - Opera
+opera_crashreporter.exe,24500,Console,4,9.048 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+opera.exe,23664,Console,4,248.520 KB,Running,DESKTOP-5I5ARKU\josga,0:03:47,N/D
+opera.exe,19824,Console,4,52.192 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:24,N/D
+opera.exe,304,Console,4,20.212 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+opera.exe,22124,Console,4,101.956 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+opera.exe,20204,Console,4,100.716 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+opera.exe,18480,Console,4,103.064 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+opera.exe,22312,Console,4,142.564 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:14,N/D
+opera.exe,9528,Console,4,126.704 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:02,N/D
+opera.exe,23620,Console,4,135.256 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:02,N/D
+opera.exe,24268,Console,4,123.060 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:07,N/D
+opera.exe,23872,Console,4,22.456 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+opera.exe,12828,Console,4,100.036 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+opera.exe,23216,Console,4,105.156 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+opera.exe,15396,Console,4,124.312 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:03,N/D
+CompPkgSrv.exe,25232,Console,4,8.652 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+opera.exe,1408,Console,4,208.836 KB,Unknown,DESKTOP-5I5ARKU\josga,0:03:09,N/D
+opera.exe,17016,Console,4,122.912 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+opera.exe,2092,Console,4,439.744 KB,Unknown,DESKTOP-5I5ARKU\josga,0:12:58,N/D
+opera.exe,10980,Console,4,201.420 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:08,N/D
+opera.exe,14020,Console,4,156.564 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:04,N/D
+opera.exe,13332,Console,4,138.668 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:03,N/D
+opera.exe,13236,Console,4,105.768 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+opera.exe,23268,Console,4,131.476 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:08,N/D
+opera.exe,19044,Console,4,122.336 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:01,N/D
+opera.exe,19280,Console,4,161.388 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:06,N/D
+opera.exe,3952,Console,4,171.248 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:11,N/D
+opera.exe,15028,Console,4,177.084 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:18,N/D
+opera.exe,10292,Console,4,171.444 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:07,N/D
+opera.exe,8980,Console,4,155.296 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:09,N/D
+opera.exe,18232,Console,4,134.732 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:03,N/D
+svchost.exe,17480,Console,4,22.828 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+opera.exe,21400,Console,4,353.752 KB,Unknown,DESKTOP-5I5ARKU\josga,0:02:57,N/D
+SystemSettings.exe,9028,Console,4,2.380 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,Configuraci�n
+ApplicationFrameHost.exe,19520,Console,4,36.232 KB,Running,DESKTOP-5I5ARKU\josga,0:00:01,Calculadora
+UserOOBEBroker.exe,19788,Console,4,10.280 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+Microsoft.Media.Player.exe,19512,Console,4,2.200 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,Reproductor multimedia
+RuntimeBroker.exe,10224,Console,4,25.024 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+CalculatorApp.exe,1168,Console,4,2.216 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,Calculadora
+RuntimeBroker.exe,17892,Console,4,7.184 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+dllhost.exe,22208,Console,4,12.980 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,OleMainThreadWndName
+netbeans64.exe,9372,Console,4,1.325.540 KB,Running,DESKTOP-5I5ARKU\josga,0:10:18,ProcessManager - Apache NetBeans IDE 15
+opera.exe,19040,Console,4,169.788 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:08,N/D
+opera.exe,22704,Console,4,139.288 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:05,N/D
+svchost.exe,6244,Console,4,13.624 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+ShellExperienceHost.exe,13404,Console,4,46.940 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,Nueva notificaci�n
+RuntimeBroker.exe,22744,Console,4,16.808 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,OleMainThreadWndName
+opera.exe,15616,Console,4,105.000 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+opera.exe,17980,Console,4,122.024 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:01,N/D
+opera.exe,21384,Console,4,125.916 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:01,N/D
+SearchApp.exe,8076,Console,4,177.864 KB,Running,DESKTOP-5I5ARKU\josga,0:00:02,Noticias e intereses
+opera.exe,18496,Console,4,167.332 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:04,N/D
+jucheck.exe,21120,Console,4,15.404 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,JavaUpdate SysTray Icon
+opera.exe,26172,Console,4,26.996 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+svchost.exe,26292,Services,0,16.012 KB,Unknown,N/D,0:00:00,N/D
+svchost.exe,20436,Services,0,6.888 KB,Unknown,N/D,0:00:00,N/D
+WmiPrvSE.exe,10796,Services,0,13.276 KB,Unknown,N/D,0:01:06,N/D
+notepad.exe,15172,Console,4,15.556 KB,Running,DESKTOP-5I5ARKU\josga,0:00:00,*Sin t�tulo: Bloc de notas
+opera.exe,14916,Console,4,116.508 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+java.exe,748,Console,4,34.972 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+conhost.exe,13712,Console,4,11.524 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+tasklist.exe,5628,Console,4,11.088 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
+conhost.exe,4088,Console,4,11.396 KB,Unknown,DESKTOP-5I5ARKU\josga,0:00:00,N/D
